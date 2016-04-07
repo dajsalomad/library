@@ -17,5 +17,15 @@ String toString(){
 "$librarian, $location"
 }
     static constraints = {
+
+location()
+
+openingHours()
+
+book()
+
+student()
+
+librarian()
     }
 }
