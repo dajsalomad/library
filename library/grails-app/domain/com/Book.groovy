@@ -4,7 +4,7 @@ class Book {
 
 String title
 
-String author
+String author 
 
 String isbn
 
@@ -13,6 +13,10 @@ Date dateBorrowed
 Date returnDate
 
 String student
+
+static hasMany=[students:Student]
+
+static belongsTo=Student
 
 String toString(){
 

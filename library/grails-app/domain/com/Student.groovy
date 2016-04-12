@@ -8,7 +8,11 @@ String email
 
 String studentid
 
-String course
+Course course
+
+static hasMany=[books:Book]
+
+static belongsTo=Book
 
 String toString(){
 
