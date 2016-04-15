@@ -12,7 +12,7 @@ Course course
 
 static hasMany=[books:Book]
 
-static belongsTo=Book
+Librarian librarian
 
 String toString(){
 

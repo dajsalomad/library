@@ -18,6 +18,8 @@ static hasMany=[students:Student]
 
 static belongsTo=Student
 
+Librarian librarian
+
 String toString(){
 
 "$title, $isbn, $author"

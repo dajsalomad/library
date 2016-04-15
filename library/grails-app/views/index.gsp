@@ -2,7 +2,8 @@
 <html>
     <head>
         <meta name="layout" content="main"/>
-        <title>Welcome to Grails</title>
+        <title>The University Enrolment System</title>
+</head>
         <style type="text/css" media="screen">
             #status {
                 background-color: #eee;
@@ -77,6 +78,22 @@
         </style>
     </head>
     <body>
+
+<div id="Welcome">
+
+<br />
+
+<h3> Welcome to the University Enrolment System</h3>
+
+<p>Lorem ipsum dolor sit amet, ea mazim audire viderer pri, in consul legendos sed. Ex movet viderer sea, his ut diam doming virtute. Saepe atomorum theophrastus eam no, mea ad nulla complectitur. Meis aliquip splendide at sea, ea vis dicam albucius. Errem placerat mei et, veniam quodsi id quo.</p>
+
+<img src="_path_to_images/university.jpg alt="Student Enrolment System" />
+
+</div>
+
+</body>
+
+<html>
         <a href="#page-body" class="skip"><g:message code="default.link.skip.label" default="Skip to content&hellip;"/></a>
         <div id="status" role="complementary">
             <h1>Application Status</h1>
